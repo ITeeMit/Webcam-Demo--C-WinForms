@@ -261,22 +261,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **AForge.NET** for excellent video processing capabilities
 - **Microsoft .NET Team** for robust Windows Forms framework
 - **Community contributors** for feedback and improvements
-
-## 📞 **Support**
-
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/webcam-demo-winforms/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/webcam-demo-winforms/discussions)
-
-## 📈 **Project Stats**
-
-![GitHub stars](https://img.shields.io/github/stars/your-username/webcam-demo-winforms)
-![GitHub forks](https://img.shields.io/github/forks/your-username/webcam-demo-winforms)
-![GitHub issues](https://img.shields.io/github/issues/your-username/webcam-demo-winforms)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/webcam-demo-winforms)
-
 ---
 
 ⭐ **Star this repository if you found it helpful!**
-
 **Built with ❤️ using C# and .NET**
